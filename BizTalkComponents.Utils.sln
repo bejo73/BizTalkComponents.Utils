@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.Utils.Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.Utils.SSOConfigRepository", "Src\SSOConfigRepository\BizTalkComponents.Utils.SSOConfigRepository.csproj", "{0055152D-9603-4A22-9DC8-3010F8B7DB53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.Utils.AppConfigRepository", "Src\AppConfigRepository\BizTalkComponents.Utils.AppConfigRepository.csproj", "{3791A8F2-0516-44CD-8C64-E1CAC218FA8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{0055152D-9603-4A22-9DC8-3010F8B7DB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0055152D-9603-4A22-9DC8-3010F8B7DB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0055152D-9603-4A22-9DC8-3010F8B7DB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3791A8F2-0516-44CD-8C64-E1CAC218FA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3791A8F2-0516-44CD-8C64-E1CAC218FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3791A8F2-0516-44CD-8C64-E1CAC218FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3791A8F2-0516-44CD-8C64-E1CAC218FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
